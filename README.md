@@ -28,8 +28,6 @@ ASCII art radio + menu interface. Streams online radio from [radiocast.co](https
 |_____________________________________________|
  \___________________________________________/
 
-
-                                
 ```
 
 ---
@@ -56,7 +54,7 @@ python radio.py
 
 ---
 
-🎵 Local Music
+##🎵 Local Music
 
 RocknRoll-Radio can also play your own music files.
 It will automatically search these locations:
@@ -69,12 +67,13 @@ music/ → included in this repo for beginners
 
 👉 If you’re unsure, just copy your .mp3 or .wav files into the music/ folder inside this project.
 
+```
 RocknRoll-Radio/
  ├── radio.py
  ├── requirements.txt
  └── music/
       └── your_songs_here.mp3
-
+```
 ---
 
 ## 📄 License
