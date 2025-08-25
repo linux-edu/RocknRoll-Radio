@@ -59,12 +59,13 @@ python radio.py
 RocknRoll-Radio can also play your own music files.
 It will automatically search these locations:
 
+```
 ~/Music/ → default on Linux
 
 ~/storage/music/ → default on Termux
 
 music/ → included in this repo for beginners
-
+```
 👉 If you’re unsure, just copy your .mp3 or .wav files into the music/ folder inside this project.
 
 ```
