@@ -54,7 +54,7 @@ python radio.py
 
 ---
 
-##🎵 Local Music
+## 🎵 Local Music
 
 RocknRoll-Radio can also play your own music files.
 It will automatically search these locations:
