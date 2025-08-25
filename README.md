@@ -14,6 +14,7 @@ ASCII art radio + menu interface. Streams online radio from [radiocast.co](https
                                    \
                                     \
                                      \
+```
 / RocknRoll
 /___________________________________________
 | author: linux-edu |
@@ -26,7 +27,7 @@ ASCII art radio + menu interface. Streams online radio from [radiocast.co](https
 | VOL | TUNER | FM | AM |
 |_____________________________________|
 _______________________________________/
-```
+
 
 ---
 
@@ -49,6 +50,27 @@ cd RocknRoll-Radio
 pip install -r requirements.txt
 python radio.py
 ```
+
+---
+
+🎵 Local Music
+
+RocknRoll-Radio can also play your own music files.
+It will automatically search these locations:
+
+~/Music/ → default on Linux
+
+~/storage/music/ → default on Termux
+
+music/ → included in this repo for beginners
+
+👉 If you’re unsure, just copy your .mp3 or .wav files into the music/ folder inside this project.
+
+RocknRoll-Radio/
+ ├── radio.py
+ ├── requirements.txt
+ └── music/
+      └── your_songs_here.mp3
 
 ---
 
