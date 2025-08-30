@@ -1,2 +1,2 @@
-requests
-rich
+# These are future dependencies for planned features.
+# The current script does not use them.
